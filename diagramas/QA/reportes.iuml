@@ -1,0 +1,105 @@
+@startuml
+!theme cerulean
+scale 5/4
+title BD Reportes
+
+object Escenario
+skinparam object {
+
+	backgroundColor<<Informe>> PHYSICAL
+	backgroundColor<<Temporal>> GhostWhite
+}
+
+Escenario : id = 123
+Escenario : nombre_escenario = "FS_API_001"
+Escenario : objetivo = Texto Claro, no tecnico
+Escenario : descripcion = Texto Claro, no tecnico
+Escenario : precondiciones = Texto Claro, no tecnico
+Escenario : resultado_esperado
+Escenario : id_sistema_aplicacion = 123
+
+
+object Sistema_Aplicacion
+
+Sistema_Aplicacion : id = 123
+Sistema_Aplicacion : sistema = "FreeSoft" (Catalogo)
+Sistema_Aplicacion : aplicacion = "API_ONE" (Catalogo)
+
+object Artefacto_Aplicacion
+
+Artefacto_Aplicacion : id = 123
+Artefacto_Aplicacion : artefacto = "app.ear" (No catalogado)
+Artefacto_Aplicacion : aplicacion = "api_one" (Catalogo)
+Artefacto_Aplicacion : version_productiva = 1.2.3(Catalogo)
+
+
+object Reporte
+
+Reporte : id = 123
+Reporte : redmine = 456
+Reporte : Vuelta_Error = 1
+Reporte : id_Escenario_Reporte = 123
+Reporte : id_reporte_artefacto = 123
+Reporte : fecha_fin = 15/07/2021
+Reporte : resultado_general = "Se implementa/Se Rechaza"
+
+object Test_Plan <<Informe>>
+
+Test_Plan : id = 1234
+Test_Plan : redmine = 567
+Test_Plan : vuelta_error = 1
+Test_Plan : fecha_ejecucion = 15/07/2021
+Test_Plan : resultado_general = "10 Test Ok, 5 Test Fallan"
+
+object Reporte_Artefacto
+
+Reporte_Artefacto : id = 123
+Reporte_Artefacto : id_Reporte = 123
+Reporte_Artefacto : id_artefacto_aplicacion = 123
+Reporte_Artefacto : version_artefacto = 1.2.3
+
+object Escenario_Reporte
+
+Escenario_Reporte : id = 123
+Escenario_Reporte : id_reporte = 123
+Escenario_Reporte : id_escenario = 123
+
+
+object Caso_Prueba <<Informe>>
+
+Caso_Prueba : id = 123
+Caso_Prueba : nombre_cp = "FS_API_0011"
+Caso_Prueba : id_Escenario = 123
+Caso_Prueba : tipo = manual/automatica/mixto
+Caso_Prueba : set_prueba = [Blob, Json o Link a tabla]
+Caso_Prueba : pasos = [Blob, Json o Link a tabla]
+Caso_Prueba : resultado_esperado = exito/fallo
+
+object Ejecucion <<Informe>>
+
+Ejecucion : id = 123
+Ejecucion : id_caso_prueba = 123
+Ejecucion : id_test_plan = 456
+Ejecucion : resultado_ejecucion = exito/fallo
+Ejecucion : homologador = "pepe"
+Ejecucion : fecha_ejecucion = 12/03/2019
+
+object Escenario_ad_hoc <<Temporal>>
+Escenario_ad_hoc : nombre_Escenario = "AH_API_001"
+Escenario_ad_hoc : objetivo = Texto Claro, no tecnico
+Escenario_ad_hoc : precondiciones = Texto Claro, no tecnico
+Escenario_ad_hoc : descripcion = Texto Claro, no tecnico
+Escenario_ad_hoc : id_sistema_aplicacion
+
+Escenario <-- Caso_Prueba: Escenario
+Escenario --> Sistema_Aplicacion: Sist + App
+Escenario_ad_hoc --> Sistema_Aplicacion: Sist + App
+Sistema_Aplicacion <-- Artefacto_Aplicacion: Aplicacion
+Reporte <-down- Escenario_Reporte: Reporte
+Reporte <-left-> Test_Plan: Redmine
+Escenario <-- Escenario_Reporte: Escenario
+Ejecucion -up-> Caso_Prueba: Caso de Prueba
+Ejecucion -up-> Test_Plan: Test_Plan
+Reporte_Artefacto --> Reporte: Reporte
+Reporte_Artefacto --> Artefacto_Aplicacion: Art + App
+@enduml
