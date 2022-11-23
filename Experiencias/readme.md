@@ -3,6 +3,8 @@
 En este directorio recopilare en formato *Markdown* distintas experiencias que fui teniendo durante mi vida laboral y estudiantil . Experiencias que me ayudaron a volverme un mejor lider y entender la realidad de un trabajo en IT.
 
 ## Experiencias recopiladas de mi blog "El Blog de seba"
+Aquel blog nacio como un mapa de aprendisaje propio al mismo tiempo que un lugar para compartir aprendizaje.
+Fue desarrollado en Python utilizando Flask, Jinja y SQL!
 
 ### Mi jefa en pañales
 Aquella vez que tenia 4 jefes , 2 tecnicos y 2 de producto y todos tenian ideas diferentes de como debia funcionar la direccion.
@@ -23,6 +25,7 @@ Una experiencia con uno de mis primeros empleados. Tratar con las personalidades
 Cosas que pasan en la pandemia...
 
 ## Otros articulos, pensamientos y bocetos
+Escritos de notas, Keep, y bocetos varios.
 
 ### Prometeo y las buenas noticias
 El fuego de los dioses que enciende a tus subordinados con fechas imposibles.
