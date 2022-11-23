@@ -16,6 +16,11 @@ El problema de siempre... la mayoria pudieron ser un mail.
 ### La teoria del Zoologico
 Una teoria que encontre por ahi , en la que debemos valorar nuestra energia y atencion, evitando que "nos vuelvan" las tareas.
 
+### La desesperacion por demostrar
+Una experiencia con uno de mis primeros empleados. Tratar con las personalidades y estilos de cada uno, supuso un aprendisaje importante en mi etapa como jefe.
+
+### El Bueno, el Malo y el Vago
+Cosas que pasan en la pandemia...
 
 ## Otros articulos, pensamientos y bocetos
 
