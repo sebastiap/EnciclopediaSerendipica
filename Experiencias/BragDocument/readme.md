@@ -1,6 +1,11 @@
 # Brag Document
 
 ## Logros
+### Logros Personales
+
+### Logros Laborales
+* Dirigir un grupo de 10 personas que realicen el analisis,desarrollo, test e implementacion productiva de un conjunto de sistemas tributarios en AFIP.(CELULA)
+* Dirigir un grupo de desarrollo aplicando metodologias Agiles para una app de microservicios, utilizando springboot para el backend y VUE 3 para el frontend. 
 
 The Brag Document is great for:
 
