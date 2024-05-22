@@ -56,3 +56,15 @@ This template comes with five views:
 - ⏪  **Yearly Rewind:** Promotions and raises are generally decided based on a longer track-record of performance. This view gives your manager everything they need to know to build a case for you.
 - 🏆  **Biggest Wins:** The biggest wins view sorts by level of impact. Use this view to kick-start your resume, prepare for interviews, or highlight your biggest accomplishments.
 
+## Algunos proyectos online - LinkTree
+
+ * Vue-Taikai: https://scintillating-maamoul-ff980a.netlify.app/
+ * Wintercome: http://sebastiap.pythonanywhere.com/
+ * Radix Orbis - Juego realizado para la Global Game Jam UADE 2023 junto a Fanny Pack Studios en Godot.
+https://fannypackstudios.itch.io/radix-orbis
+ * Spika Games (Old Version) : https://sebastiap.github.io/spika-games/
+ * Arcane Quiz: https://github.com/sebastiap/ArcaneQuiz
+ * English Verb Practice:: https://codesandbox.io/p/sandbox/english-verb-practice-vz0xoc
+ * Repo-git: https://github.com/sebastiap
+ * Portfolio Jquery(Old Version):https://sebastiap.github.io/portfolioJquery/
+
