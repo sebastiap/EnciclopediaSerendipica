@@ -14,4 +14,8 @@ Para darles un introduccion apropiada, debo aclarar que la empresa donde trabaja
 Se encontro con mucha resistencia, pero logro hacer una prueba piloto de unos pocos meses. A principios de 2022, por diversos motivos, esta persona dejo la empresa y quien ocupo su cargo no tenia ninguna intencion de implementar el teletrabajo... pero el destino tenia otros planes.
 
 Llego la pandemia a la Argentina asi que no quedo otra que aplicar el trabajo remoto obligatorio. Y aca es cuando se vieron las verdaderas caras de muchos en la direccion.
-La mayoria de la gente trabajaba diligentemente, igual o incluso mejor que con la presencialidad (incluso habia momentos que seguiamos despues de hora a cerrar temas, ya que evitabamos el viaje y nos entretenia). Pero siempre hay una oveja negra... o un rebaños negro.
+La mayoria de la gente trabajaba diligentemente, igual o incluso mejor que con la presencialidad (incluso habia momentos que seguiamos despues de hora a cerrar temas, ya que evitabamos el viaje y nos entretenia). Pero siempre hay una oveja negra... o un rebaño negro.
+
+Comenzaba a pasar que en cuanto haciamos una reunion, siempre a alguno le pasaba algo qu evitaba la llegada a tiempo o acudir a la reunion en su totalidad. Las camaras se apagaban o dejaban de andar, problemas comunes de pandemia.  El asunto fue que se volvio muy evidente quien ponia toda la voluntad y seriedad en trabajar y quien se habia acostrumbrado rapido a la nueva comodidad y no podia permitir que el trabajo se los quite.
+
+Como decia al principio del articulo, una de estas personas, bajo su rendimiento considerablemente. Paso a ser alguien al que habia que seguirlo de cerca para que trabaje, requeria un esfuerzo extra de sus jefes (en una instancia yo mismo, y posteriormente mis sucesores), sin entender como habia cambiado, si es que tenia buena fama.
