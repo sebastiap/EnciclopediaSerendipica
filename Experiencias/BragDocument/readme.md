@@ -28,9 +28,11 @@ nuevas funcionalidades en un grupo de sistemas cerrados. Nos encargabamos desde 
 * Saber algo de musica, practicar con el piano y todavia acordarse algo.
 
 ### Video Games
+* Winter Come v2 en Python y Flask
 * 2023 Desarrollar junto a Ale (Extor) el juego Spaceship Harem para ludover
 * 2023 Desarrollar el juego Radix Orbis para una Game Jam
+* 2024 Remake Web de Vue-Taikai(V3)
 
 ### Board Games
-* 2017-2019 Reskinear el juego de meso Shadow Hunters como un Marvel vs DC . Se modificaron las reglas, se balanceo y expandio el juego a mas de 200 cartas.
-* 2024 Se creo la expansion y demake "Lite Hunters" para ser jugable sin el juego base (Shadow Hunters)
+* 2017-2019 Reskinear el juego de meso Shadow Hunters como un Marvel vs DC . Se modificaron las reglas, se balanceo y expandio el juego a mas de 200 cartas. 227 Personajes y 2 con Skin extra.
+* 2024 Se creo la expansion y demake "Lite Hunters" para ser jugable sin el juego base (Shadow Hunters) con 7 personajes originales.
