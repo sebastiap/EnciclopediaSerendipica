@@ -13,6 +13,24 @@ nuevas funcionalidades en un grupo de sistemas cerrados. Nos encargabamos desde 
 * Capacitacion de un equipo de desarrollo desde cero con un semisenior y 2 junior. Posteriormente se incorporo una compañera mas con pocos conocimientos tecnicos pero muy capacitada en metodologias y analisis.
 * Capacitacion de varios equipos de QA, tanto en metodos de control de calidad y testing, como en administracion de equipos unix y temas generales de sistemas.
 * Dirigir un grupo de 10 personas que realicen el analisis,desarrollo, test e implementacion productiva de un conjunto de sistemas tributarios en AFIP.(CELULA)
-* Dirigir un grupo de desarrollo aplicando metodologias Agiles para una app de microservicios, utilizando springboot para el backend y VUE 3 para el frontend. 
+* Dirigir un grupo de desarrollo aplicando metodologias Agiles para una app con arquitectura de microservicios, utilizando springboot Java para el backend y VUE 3 para el frontend. Se utilizaron tecnologias Docker sobre Kubernetes y fue un aprendisaje muy completo a nivel profesional. 
 
+## Logros Creativos
+### Musicales
+* Junto a Sebstiun componer la opera Rock "Roba Mazo" compuesto de los siguientes temas:
+    - Robamazo (2012)
+    - El Rap de los ratones (2016)
+    - Ese mazo que me llama de su caja (2016)
+    - Cartas Robadas (via IA, 2024)
+    - El Ladron de Mazos (via IA, 2024)
+    - El ladron de Estrategias (via IA, 2024)
+* Aprender en pocos años a tocar a un nivel bastante aceptable el saxofon.
+* Saber algo de musica, practicar con el piano y todavia acordarse algo.
 
+### Video Games
+* 2023 Desarrollar junto a Ale (Extor) el juego Spaceship Harem para ludover
+* 2023 Desarrollar el juego Radix Orbis para una Game Jam
+
+### Board Games
+* 2017-2019 Reskinear el juego de meso Shadow Hunters como un Marvel vs DC . Se modificaron las reglas, se balanceo y expandio el juego a mas de 200 cartas.
+* 2024 Se creo la expansion y demake "Lite Hunters" para ser jugable sin el juego base (Shadow Hunters)
